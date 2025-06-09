@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+프론트엔드+개발자+조형근입니다.;디자인+시스템+그리고+비즈니스+감각을+갖춘+웹개발자입니다.">
-</p>
-
 <h1 align="center">Hi 👋 I'm 발등튀김</h1>
 
 <p align="center">
