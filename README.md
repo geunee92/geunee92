@@ -19,9 +19,9 @@ React와 TypeScript를 중심으로 웹 프론트엔드를 개발하며, 디자�
 
 ## 🛠 Tech Stack
 
-| Frontend | Styling | Tooling | 기타 |
-|----------|---------|---------|------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![Emotion](https://img.shields.io/badge/Emotion-DB7093?logo=css3&logoColor=white) ![vanilla-extract](https://img.shields.io/badge/vanilla--extract-purple?style=flat) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) | Jotai, React Query, Firebase, GitHub Actions 등 |
+| Framework / Library | Styling | Tooling / Infra | 기타 |
+|---------------------|---------|------------------|------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![Emotion](https://img.shields.io/badge/Emotion-DB7093?logo=css3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white) ![vanilla-extract](https://img.shields.io/badge/vanilla--extract-purple?style=flat) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) | React Query, Jotai, Firebase, GitHub Actions |
 
 ---
 
@@ -32,12 +32,6 @@ React와 TypeScript를 중심으로 웹 프론트엔드를 개발하며, 디자�
 | **NBA $15 드림팀 웹앱** | 제한된 예산으로 NBA 선수 5명을 선택하는 팀 구성 게임 | React, Vite, Emotion, Firebase |
 | **디자인 시스템** | 공통 UI 컴포넌트 및 토큰 설계 + Storybook 문서화 | vanilla-extract, TypeScript, monorepo |
 | **trip** | Vite + TypeScript + Emotion 기반의 숙박 웹 애플리케이션. React Query와 Jotai로 상태 관리하며, Firebase를 백엔드로 사용하여 빠르고 유연한 사용자 경험 제공 | React, Vite, TypeScript, Emotion, Jotai, React Query, Firebase |
-
----
-
-## 📘 Dev Log
-
-- Notion 개발기록 정리: [https://aware-crime-0cb.notion.site/3116545eb0fa4295b4110c5c53017d09](https://aware-crime-0cb.notion.site/3116545eb0fa4295b4110c5c53017d09)
 
 ---
 
@@ -54,7 +48,7 @@ React와 TypeScript를 중심으로 웹 프론트엔드를 개발하며, 디자�
 
 - ✉️ Email: geunee92@gmail.com
 - 📝 Notion 개발기록: [바로가기](https://aware-crime-0cb.notion.site/3116545eb0fa4295b4110c5c53017d09)
-- 💡 더 많은 활동은 [GitHub 프로필](https://github.com/geunee92)에서 확인하실 수 있습니다.
+- 💡 더 많은 활동은 [GitHub 레포지토리](https://github.com/geunee92?tab=repositories)에서 확인하실 수 있습니다.
 
 ---
 
