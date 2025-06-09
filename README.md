@@ -29,8 +29,8 @@ React와 TypeScript를 중심으로 웹 프론트엔드를 개발하며, 디자�
 
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
-| **NBA $15 드림팀 웹앱** | 제한된 예산으로 NBA 선수 5명을 선택하는 팀 구성 게임 | React, Vite, Emotion, Firebase |
-| **디자인 시스템** | 공통 UI 컴포넌트 및 토큰 설계 + Storybook 문서화 | vanilla-extract, TypeScript, monorepo |
+| **NBA $15 드림팀 웹앱** | 제한된 예산으로 NBA 선수 5명을 선택하는 팀 구성 게임 | React, Vite, Emotion, Firebase, monorepo |
+| **디자인 시스템** | 공통 UI 컴포넌트 및 토큰 설계 + Storybook 문서화 | vanilla-extract, Next.js TypeScript, monorepo |
 | **trip** | Vite + TypeScript + Emotion 기반의 숙박 웹 애플리케이션. React Query와 Jotai로 상태 관리하며, Firebase를 백엔드로 사용하여 빠르고 유연한 사용자 경험 제공 | React, Vite, TypeScript, Emotion, Jotai, React Query, Firebase |
 
 ---
