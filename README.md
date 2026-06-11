@@ -32,6 +32,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
+| **[화장품 성분 분석기](https://cosmetic-ingredient-analyzer.vercel.app)** 🆕 | 화장품 전성분(텍스트·라벨 사진)을 AI가 안전/주의 성분으로 나눠 분석 — 국가별 규제·알러젠 표시. 50성분 대량 분석 타임아웃을 **tier 선별 단일 호출**로 해결, 멀티모델 폴백·정적 사전 안전망·서버리스 백엔드·rate limit까지 직접 구현 ([GitHub](https://github.com/geunee92/cosmetic-ingredient-analyzer)) | React 19, TypeScript, Vercel Functions, OpenAI, Claude, Vercel KV |
 | **NBA $15 드림팀 웹앱** | 제한된 예산으로 NBA 선수 5명을 선택하는 팀 구성 게임 | React, Vite, Emotion, Firebase, monorepo |
 | **디자인 시스템** | 공통 UI 컴포넌트 및 토큰 설계 + Storybook 문서화 | vanilla-extract, Next.js, TypeScript, monorepo |
 | **trip** | 숙박 웹 애플리케이션 — React Query · Jotai 상태 관리, Firebase 백엔드 | React, Vite, TypeScript, Emotion, Jotai, React Query, Firebase |
